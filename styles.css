@@ -1,0 +1,101 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    margin: 20px 20px;
+}
+
+.section-1 {
+    
+    background-image: url(https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80);
+    height: 500px;
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 200px;
+    text-shadow: -5px 5px 5px black;
+    background-attachment: fixed;
+    background-position: cover;
+    font-weight: lighter;
+}
+
+.section-1 h1 {
+    font-size: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.section-1 h2 {
+    font-size: 50px;
+}
+
+.section-2 {
+    background-image: url(https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80);
+    color: black;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: cover;
+    font-weight: lighter;
+  
+}
+.intro {
+    float: right;
+    width: 30%;
+    padding-top: 150px;
+    padding-right: 120px;
+}
+.intro p {
+    font-size: 20px;
+}
+
+.section-3 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background-image: url(https://images.unsplash.com/photo-1481253127861-534498168948?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80);
+    padding-top: 100px;
+}
+
+.title-1, .title-2, .title-3 {
+    font-size: 20px;
+    height: 200px;
+    width: 33%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    padding-top:100px;
+    margin: 2px;
+    background-image: url(https://images.unsplash.com/photo-1507537417841-81e85feb9bd2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+}
+
+
+
+.title-1, .title-2, .title-3, a {
+    text-decoration: none;
+    color: rgb(51, 91, 131);
+     }
+    
+    
+
+.title-1 a {
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 20px;
+}
+.title-2 a {
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 20px;
+}
+.title-3 a {
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 20px;
+}
